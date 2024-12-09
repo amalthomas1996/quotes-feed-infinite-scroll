@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+  text-align: center;
+}
+
+.error {
+  color: red;
+
+}
+
+.quote {
+  font-size: 18px;
+  font-style: italic;
+}
+
+.author {
+  font-size: 16px;
+  font-weight: bold;
+  margin-top: 10px;
+
+}
+
+.quote-card {
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 5px;
+
+}
